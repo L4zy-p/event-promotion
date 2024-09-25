@@ -1,0 +1,53 @@
+[
+    {   
+        "Score": 7,
+        "Promotions": [
+            {
+                "Id": "a",
+                "Start_date": "2024-09-01"
+            },
+            {
+                "Id": "b",
+                "Start_date": "2024-09-05"
+            },
+            {
+                "Id": "c",
+                "Start_date": "2024-09-10"
+            }
+        ]
+    },
+    {   
+        "Score": 6,
+        "Promotions": [
+            {
+                "Id": "d",
+                "Start_date": "2024-08-30"
+            },
+            {
+                "Id": "e",
+                "Start_date": "2024-09-04"
+            },
+            {
+                "Id": "f",
+                "Start_date": "2024-09-09"
+            }
+        ]
+    },
+    {
+        "Score": 5,
+        "Promotions": [
+            {
+                "Id": "g",
+                "Start_date": "2024-09-02"
+            },
+            {
+                "Id": "h",
+                "Start_date": "2024-09-06"
+            },
+            {
+                "Id": "i",
+                "Start_date": "2024-09-11"
+            }
+        ]
+    }
+]
